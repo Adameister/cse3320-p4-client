@@ -1,0 +1,1 @@
+export set CLASSPATH=.:~/cse3330_DB/project4/mysql-connector-java.jar:$CLASSPATH
